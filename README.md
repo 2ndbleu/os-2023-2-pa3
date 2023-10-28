@@ -274,7 +274,7 @@ $
 
 If everything goes fine, you will get the following graph: 
 
-![PNG image here](https://github.com/snu-csl/os-pa3-draft/blob/master/graph.png)
+![PNG image here](https://github.com/snu-csl/os-pa3/blob/master/graph.png)
 
 ## Restrictions
 
